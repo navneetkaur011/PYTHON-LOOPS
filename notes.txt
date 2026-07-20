@@ -1,0 +1,15 @@
+Python Loops - Key Concepts & Study Notes
+
+1. For Loops:
+   - Used for sequential traversal (iterating over lists, tuples, dictionaries, sets, or strings).
+   - Syntax: for item in iterable:
+   - Commonly used with range() to repeat a block of code a specific number of times.
+
+2. While Loops:
+   - Repeats a block of code as long as a test condition evaluates to True.
+   - Crucial to include an update/increment step to prevent infinite loops.
+
+3. Loop Control Statements:
+   - break: Completely exits the loop immediately.
+   - continue: Skips the current iteration and moves to the next one.
+   - pass: A null operation placeholder used when syntax requires a statement but no action is needed.
