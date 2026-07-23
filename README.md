@@ -10,18 +10,18 @@ The goal of this repository is to practice clean syntax, understand iteration me
 
 Every file in this directory represents a key milestone in learning loop concepts:
 
-* **`01_Loop.py`** – Implementing basic `while` loops, tracking conditions, and managing sequence iterations.
-* **`Questions.py`** – Solving practical problem sets involving `break` and `continue` control statements.
+* **`01_Loop.py`** - Implementing basic `while` loops, tracking conditions, and managing sequence iterations.
+* **`02_For_Loop.py`** - Implements the `for` loop, custom ranges, iterables, and placeholders using the `pass` statement.
+* **`Questions.py`** - Solving practical problem sets involving `break` and `continue` control statements, range-based implementations, and loop logic.
 
 ---
 
-## 🎯 Next Milestones
+## 🚀 Next Milestones
 
-The next phase of my learning journey will continue focusing on advanced loop concepts and sequence types:
+The next phase of my learning journey will transition into a new repository focusing on **Functions and Recursion**:
 
-* **For Loops**: Learning sequence traversal over iterables like lists and strings.
-* **Range Function**: Utilizing `range()` for generating dynamic numeric sequences.
-* **Control Statements**: Mastering the `pass` statement placeholder.
+* **`Functions`**: Defining reusable blocks of code, parameters, and return values.
+* **`Recursion`**: Understanding base cases and functions calling themselves to solve complex problems.
 
 ---
 
